@@ -1,0 +1,111 @@
+[
+    {
+        "id": 1,
+        "nombre": "Coconut",
+        "precio": 4100,
+        "thumbnailUrl": "./images/coconut.webp"
+    },
+    {
+        "id": 2,
+        "nombre": "Vanilla",
+        "precio": 4500,
+        "thumbnailUrl": "./images/vanilla.webp"
+    },
+    {
+        "id": 3,
+        "nombre": "Citric",
+        "precio": 3800,
+        "thumbnailUrl": "./images/citric.webp"
+    },
+    {
+        "id": 4,
+        "nombre": "Bubblegum",
+        "precio": 3300,
+        "thumbnailUrl": "./images/bubblegum.webp"
+    },
+    {
+        "id": 5,
+        "nombre": "Lavander",
+        "precio": 3300,
+        "thumbnailUrl": "./images/lavander.webp"
+    },
+    {
+        "id": 6,
+        "nombre": "Wonderlust",
+        "precio": 3500,
+        "thumbnailUrl": "./images/wonderlust.webp"
+    },
+    {
+        "id": 7,
+        "nombre": "Pomegrade",
+        "precio": 2000,
+        "thumbnailUrl": "./images/pomegrade.webp"
+    },
+    {
+        "id": 8,
+        "nombre": "Coconut XL",
+        "precio": 8100,
+        "thumbnailUrl": "./images/coconut xl.webp"
+    },
+    {
+        "id": 9,
+        "nombre": "Vanilla XL",
+        "precio": 8200,
+        "thumbnailUrl": "./images/vanilla xl.webp"
+    },
+    {
+        "id": 10,
+        "nombre": "Citric XL",
+        "precio": 4800,
+        "thumbnailUrl": "./images/foto-citric-xl.webp"
+    },
+    {
+        "id": 11,
+        "nombre": "Bubblegum XL",
+        "precio": 4300,
+        "thumbnailUrl": "./images/bubblegum xl.webp"
+    },
+    {
+        "id": 12,
+        "nombre": "Lavander XL",
+        "precio": 5000,
+        "thumbnailUrl": "./images/foto-lavander.webp"
+    },
+    {
+        "id": 13,
+        "nombre": "Wonderlust XL",
+        "precio": 4500,
+        "thumbnailUrl": "./images/wonderlust xl.webp"
+    },
+    {
+        "id": 14,
+        "nombre": "Pomegrade XL",
+        "precio": 4300,
+        "thumbnailUrl": "./images/pomegrade-xl.webp"
+    },
+    {
+        "id": 15,
+        "nombre": "Coconut XXL",
+        "precio": 10200,
+        "thumbnailUrl": "./images/coconut xxl.webp"
+    },
+    {
+        "id": 16,
+        "nombre": "Vanilla XXL",
+        "precio": 10500,
+        "thumbnailUrl": "./images/vanilla-xxl.webp"
+    },
+    {
+        "id": 17,
+        "nombre": "Citric XXL",
+        "precio": 8200,
+        "thumbnailUrl": "./images/citric xxl.webp"
+    },
+    {
+        "id": 18,
+        "nombre": "Bubblegum XXL",
+        "precio": 8500,
+        "thumbnailUrl": "./images/bubblegum xxl.webp"
+    }
+
+]
